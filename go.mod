@@ -1,3 +1,3 @@
-module src.techknowlogick.com/xgo
+module panther-labs/xgo
 
-go 1.12
+go 1.16
